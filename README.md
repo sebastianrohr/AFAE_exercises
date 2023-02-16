@@ -1,2 +1,2 @@
-# AFAE_exercises
-Algorithmic Fairness, Accountability and Ethics course 
+# AFAE Exercises
+:star: Algorithmic Fairness, Accountability and Ethics course 
